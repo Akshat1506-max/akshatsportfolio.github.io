@@ -1,7 +1,3 @@
-Here’s a professional and descriptive **README.md** file for your portfolio website:
-
----
-
 # Akshat Thakkar's Portfolio
 
 Welcome to the repository for **Akshat Thakkar's Portfolio Website**! This project showcases my professional experience, certifications, skills, projects, and contact details. It is a lightweight and responsive static website designed for quick loading and accessibility.
@@ -95,7 +91,3 @@ Feel free to reach out for any collaborations or professional inquiries:
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you’d like additional sections or adjustments!
